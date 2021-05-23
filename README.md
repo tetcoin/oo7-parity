@@ -1,4 +1,4 @@
-oo7-parity
+spycraft-tetsy
 =========
 
 A library to provide [`Bond`](https://github.com/ethcore/oo7#oo7)-related functionality for the Parity Ethereum

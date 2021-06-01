@@ -1,7 +1,7 @@
 spycraft-tetsy
 =========
 
-A library to provide [`Bond`](https://github.com/ethcore/oo7#oo7)-related functionality for the Parity Ethereum
+A library to provide [`Spook`](https://github.com/tetcoinjs/spycraft)-related functionality for the Tetsy Vapory
 implementation and other compatible systems.
 
 See the [oo7-parity reference](https://github.com/paritytech/parity/wiki/oo7-Parity-Reference)
